@@ -4,12 +4,16 @@ Bom dia/Boa Tarde/Boa noite, sou o Lucas!
 
 -> 📚8º Semestre de Engenharia da Computação💻
 
--> Atualmente estagiando na Projetos Consultoria Integrada - Empresa Júnior da Universidade 
+-> Boa tarde! Chamo-me Lucas, tenho 21 anos e estou atualmente graduando em Engenharia da Computação pelo Centro Universitário de Brasília.
+
+Trabalhei na Projetos Consultoria Integrada, empresa júnior do Centro Universitário de Brasília, como gerente de projetos.
+
+Procuro estágios para me desenvolver na área da computação, a fim de conhecer mais setores existentes dentro da área e identificar com o que almejo me profissionalizar.
 
 
--> 📚Conhecimentos nas liguagens: C/C++
+-> 📚Conhecimentos nas liguagens: C/C++. PHP, CSS, HTML
 
--> 📗Interresado em aprender: HTML, CSS, JavaScript, Java e Phyton por enquanto.
+-> 📗Interresado em aprender: JavaScript, Java e Phyton por enquanto.
 
 -> 🤔 Interesado no estudo de Software
 
