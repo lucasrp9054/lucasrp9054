@@ -2,7 +2,7 @@ Bom dia/Boa Tarde/Boa noite, sou o Lucas!
 
 -> ⚔️Nerd/Geek 
 
--> 📚6º Semestre de Engenharia da Computação💻
+-> 📚8º Semestre de Engenharia da Computação💻
 
 -> Atualmente estagiando na Projetos Consultoria Integrada - Empresa Júnior da Universidade 
 
