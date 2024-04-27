@@ -2,7 +2,7 @@ Bom dia/Boa Tarde/Boa noite, sou o Lucas!
 
 -> ⚔️Nerd/Geek 
 
--> 📚8º Semestre de Engenharia da Computação💻
+-> 📚9º Semestre de Engenharia da Computação💻
 
 -> Boa tarde! Chamo-me Lucas, tenho 21 anos e estou atualmente graduando em Engenharia da Computação pelo Centro Universitário de Brasília.
 
