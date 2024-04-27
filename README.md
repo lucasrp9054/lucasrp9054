@@ -13,7 +13,7 @@ Procuro estágios para me desenvolver na área da computação, a fim de conhece
 
 -> 📚Conhecimentos nas liguagens: C/C++. PHP, CSS, HTML
 
--> 📗Interresado em aprender: JavaScript, Java e Phyton por enquanto.
+-> 📗Interessado em aprender: JavaScript, Java e Phyton por enquanto.
 
 -> 🤔 Interesado no estudo de Software
 
