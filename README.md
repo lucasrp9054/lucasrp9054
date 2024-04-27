@@ -3,8 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Profile</title>
-</head>
+  </head>
 <body>
   <div align="center">
     <h1>Good morning/Good afternoon/Good evening, I'm Lucas!</h1>
