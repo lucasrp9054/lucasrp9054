@@ -2,7 +2,7 @@
 
 ⚔️ **Nerd/Geek**  
 📚 **Computer Engineer** 💻  
-🌱 **Postgraduate in Data Science and Machine Learning**  
+🌱 **Postgraduate in Data Science and Machine Learning**  (Currently in Progress)  
 
 ---
 
