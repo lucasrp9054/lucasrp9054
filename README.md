@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Lucas**, **22 years old**, and I hold a degree in **Computer Engineering**. Currently, I'm pursuing a **Postgraduate degree in Data Science and Machine Learning**.
+I'm **Lucas**, I hold a degree in **Computer Engineering**. Currently, I'm pursuing a **Postgraduate degree in Data Science and Machine Learning**.
 
 While I'm still exploring and learning, I’m excited to dive deeper into the tech world and find my niche. My main focus now is gaining hands-on experience and building skills to make a solid entry into the job market.
 
