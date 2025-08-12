@@ -44,5 +44,4 @@ I’m in the process of strengthening my foundation in **Data Science** and **Ma
 Feel free to reach out to me through any of the following platforms:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasrp.armond@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasr.9054)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ribeiro-de-paula-471440209/)
